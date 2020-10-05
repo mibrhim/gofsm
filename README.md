@@ -1,3 +1,4 @@
+# THIS REPO. STILL IN DEVELOPMENT STATE
 # gofsm
 Finit State Machine implementation for goLang, it makes the Finit state machine implemention easy for any golang application
 
